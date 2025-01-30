@@ -42,7 +42,7 @@
     "parse-numeric-range": "^1.2.0",
     "react": "^0.0.0-experimental-16d053d59-20230506",
     "react-collapsed": "4.0.4",
-    "react-dom": "^0.0.0-experimental-16d053d59-20230506",
+    "react-dom": "^0.14.10",
     "remark-frontmatter": "^4.0.1",
     "remark-gfm": "^3.0.1"
   },
